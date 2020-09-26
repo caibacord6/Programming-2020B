@@ -10,6 +10,6 @@ Fact1 = int (Fact)
 
 rest = Fact1 - Fnac1
 
-print('\n'"SU NOMBRE REGISTRADO ES: ",Nom,"Y SU EDAD ACTUAL ES: ",rest)
+print('\n'"SU NOMBRE REGISTRADO ES: ",Nom,"Y SU EDAD ACTUAL ES: ",rest,"AÑOS")
 
 "print(SU EDAD ACTUAL ES: ,rest)"
